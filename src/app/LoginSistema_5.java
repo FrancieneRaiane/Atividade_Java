@@ -20,7 +20,6 @@ public class LoginSistema_5 {
         } else {
             System.out.println("Erro: login ou senha incorretos.");
         }
-
         scanner.close();
     }
 }
